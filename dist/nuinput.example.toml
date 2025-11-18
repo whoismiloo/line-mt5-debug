@@ -1,0 +1,14 @@
+# same layout as ps2 controller
+[controller]
+enabled = false
+repeat_delay = 250
+deadzone = 0.05
+
+# not supported yet
+[keyboard]
+enabled = false
+
+# uses relative position so expect desync
+[mouse]
+enabled = false
+right_click = false # Enable to turn on right click handling (used for screenshots in TEST/ScreenShot)
